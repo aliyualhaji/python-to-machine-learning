@@ -7,3 +7,7 @@ a = 10
 print(a >> 1)
 # shift left - Multiplication
 print(a << 3)
+
+print(10 & 1)
+print(10 | 1)
+print(10 ^ 1)

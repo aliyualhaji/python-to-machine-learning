@@ -6,4 +6,4 @@ salary = 80000
 if salary >= 70000:
     print("Salary is above Minimum Wage")
 else:
-    print("Salary belongs to Minimum Wage")
+    print("Salary below to Minimum Wage")
